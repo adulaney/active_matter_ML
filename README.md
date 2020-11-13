@@ -2,7 +2,7 @@
 This package is used to predict the phase of individual particles in suspensions of active colloids.
 
 ## Dependencies
-- python==3.7
+These scipts have been tested using Python 3.7.8, with the following packages (and their dependencies):
 - pandas==1.1.2
 - scipy==1.5.2
 - scikit-learn==0.23.2

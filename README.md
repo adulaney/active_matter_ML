@@ -21,13 +21,13 @@ Additionally, CUDA 10.2 and cuDNN 7 have been used.
 ## Reference
 If you make use of these models or methods in your research, please cite the following in your manuscript:
 
-	@article{
+@article{
     dulaney2020machine,
     title="{Machine Learning for Phase Behavior in Active Matter}",
     author{Dulaney, Austin R. and Brady, John F.},
     journal={arXiv preprint arXiv:2011.09458},
     year={2020}
-  }
+}
 
 
 ## License
